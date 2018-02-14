@@ -70,7 +70,7 @@ GLfloat enemigoX_once = 0.0f;
 GLfloat enemigoY_once = -0.7f;
 GLfloat direccionEnemigo_once = 270;
 
-GLfloat ganar = 0.0f;
+
 GLfloat ganar = 0.9f;
 GLfloat direccionEnemigo_ganar = 270;
 
